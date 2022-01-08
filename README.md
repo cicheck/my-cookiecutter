@@ -1,1 +1,1 @@
-# Sharp Cookiecutter
+# 🍪 Sharp Cookiecutter
