@@ -9,3 +9,29 @@
 ```shell
 cookiecutter gh:cicheck/sharp-cookiecutter
 ```
+3. Execute
+```shell
+git init
+```
+4. Execute
+```shell
+git add .
+```
+5. Execute
+```shell
+git commit -m "chore: Initial commit."
+```
+6.Execute
+```shell
+git branch -M main
+```
+7. Execute
+```shell
+git remote add origin <YOUR_REMOTE>
+```
+8. Execute
+```shell
+git push -u origin main
+```
+
+You are ready to go :rocket:!
